@@ -20,5 +20,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "sass": "^1.42.1"
+  },
+  "devDependencies": {
+    "tesseract.js": "^2.1.5"
   }
 }
